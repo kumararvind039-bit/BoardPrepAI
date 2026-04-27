@@ -1,0 +1,6 @@
+{
+  "appId": "com.gseb.studyapp",
+  "appName": "GSEB Study App",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
